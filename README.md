@@ -1,4 +1,4 @@
-<img https://images.app.goo.gl/SxbEc2juUEeBaEKi6</img>
+<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
 <h1 align="center">Hi 👋, I'm Chamod Dinuranga</h1>
 <h3 align="center">A passionate Software Engineer from Srilanka</h3>
 
