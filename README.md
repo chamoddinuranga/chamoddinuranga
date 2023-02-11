@@ -1,3 +1,4 @@
+<img https://images.app.goo.gl/SxbEc2juUEeBaEKi6</img>
 <h1 align="center">Hi 👋, I'm Chamod Dinuranga</h1>
 <h3 align="center">A passionate Software Engineer from Srilanka</h3>
 
